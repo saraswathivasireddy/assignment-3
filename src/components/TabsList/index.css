@@ -1,0 +1,23 @@
+.tab-name-style {
+  color: #ffffff;
+ 
+  margin-left: 35px;
+  margin-top: 20px;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.button-element {
+  background-color: transparent;
+  border: none;
+  color:#ffffff;
+   font-weight: 600;
+  font-size: 20px;
+}
+
+.active-tab-style {
+  color: #fec653;
+  border-top: none;
+  border-bottom: 1px solid #fec653;
+}
+
